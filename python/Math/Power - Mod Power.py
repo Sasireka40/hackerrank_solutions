@@ -1,0 +1,7 @@
+a=int(input())
+b=int(input())
+m=int(input())
+p=pow(a,b)
+print(p)
+q=pow(a,b,m)
+print(q)
